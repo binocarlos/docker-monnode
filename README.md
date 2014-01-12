@@ -1,7 +1,7 @@
 docker-monnode
 ==============
 
-quarry/node + mon for keeping processes running
+[quarry/node](https://github.com/binocarlos/docker-node) + mon for keeping processes running
 
 ```
 FROM quarry/node
